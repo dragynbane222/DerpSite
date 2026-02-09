@@ -72,6 +72,12 @@
       "telegram": "https://t.me/bomboozler"
    },
    {
+      "name": "c_smith",
+      "role": "Device Maintainer\nGoogle Pixel 9 Pro Fold",
+      "github": "https://github.com/dragynbane222"
+      "telegram": "t.me/Derpcomet"
+   };
+   {
       "name": "Carlos 'Klozz' Jesus",
       "role": "Device Maintainer\nXiaomi Poco F5 PRO (mondorian)\nRedmi K60 (mondrian)",
       "github": "https://github.com/Klozz",
